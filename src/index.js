@@ -1,5 +1,9 @@
-import one from './modules/one';
-import two from './modules/two';
+import carousel from './modules/carousel';
+import scroll from './modules/scroll';
+import timer from './modules/timer';
+import validation from './modules/validation';
 
-one();
-two();
+carousel();
+scroll();
+timer();
+validation();
