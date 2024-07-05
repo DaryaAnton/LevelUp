@@ -1,0 +1,4 @@
+### installing dependencies
+```
+npm i
+```
